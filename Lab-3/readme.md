@@ -4,6 +4,8 @@ The real estate markets, like those in Sydney and Melbourne, present an interest
 
 Dataset features:
 
+The dataset contains 4,600 rows and 18 columns.
+
 date: The date the property was listed or sold.
 
 price: The price of the property.
